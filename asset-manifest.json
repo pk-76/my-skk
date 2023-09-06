@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-skk/static/css/main.073c9b0a.css",
+    "main.js": "/my-skk/static/js/main.cfb6dfb3.js",
+    "static/js/787.d4c7fc33.chunk.js": "/my-skk/static/js/787.d4c7fc33.chunk.js",
+    "index.html": "/my-skk/index.html",
+    "main.073c9b0a.css.map": "/my-skk/static/css/main.073c9b0a.css.map",
+    "main.cfb6dfb3.js.map": "/my-skk/static/js/main.cfb6dfb3.js.map",
+    "787.d4c7fc33.chunk.js.map": "/my-skk/static/js/787.d4c7fc33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cfb6dfb3.js"
+  ]
+}
